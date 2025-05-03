@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian workspace state (safe to ignore — contains pane layout)
+.obsidian/workspace.json
+
+# Optional: Ignore plugin data (plugin settings, cache, etc.)
+# If you want exact plugin config synced, comment this out
+.obsidian/plugins/
+.obsidian/cache/
+
+# Optional: Ignore community plugin list (can differ per device)
+.obsidian/community-plugins.json
+
+# Optional: Ignore recent file history
+.obsidian/graph.json
+
+# Ignore attachments if you sync them some other way
+# attachments/
