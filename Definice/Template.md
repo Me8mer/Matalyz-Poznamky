@@ -1,5 +1,5 @@
 ## Definice: 
 
 
-#definition #lecture4 #funkce 
+#definition #lecture5 #funkce 
 

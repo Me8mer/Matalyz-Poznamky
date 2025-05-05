@@ -1,5 +1,5 @@
 ## Věta: 
 
 
-#proof #lecture3 #usporadani  #limitaUsporadani  
+#proof #lecture5 #funkce  #limita
 [[]]
