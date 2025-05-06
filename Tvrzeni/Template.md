@@ -2,5 +2,5 @@
 
 
 
-#theorem #lecture5 #limita #funkce 
+#theorem #lecture7 #derivace 
 [[]]

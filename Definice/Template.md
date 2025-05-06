@@ -1,5 +1,6 @@
 ## Definice: 
 
 
-#definition #lecture5 #funkce 
+
+#definition #lecture7 #derivace 
 
