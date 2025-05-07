@@ -43,4 +43,6 @@ Aby mohla derivace (vlastní či nevlastní) v bodě $A$ existovat, musí být f
 
 
 #definition #lecture7 #derivace 
+[[Derivace složené funkce-priklad]]
+[[Derivace identity]]
 

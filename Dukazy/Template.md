@@ -1,5 +1,5 @@
 ## Věta: 
 
 
-#proof #lecture7 #funkce  #derivace
+#proof #lecture8 #funkce  #derivace
 [[]]

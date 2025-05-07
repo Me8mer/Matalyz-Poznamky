@@ -1,6 +1,5 @@
-## Věta: 
 
 
 
-#theorem #lecture7 #derivace 
+#theorem #lecture8 #derivace 
 [[]]
