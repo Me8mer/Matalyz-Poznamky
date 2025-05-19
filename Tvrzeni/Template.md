@@ -1,5 +1,6 @@
+## Tvrzeni
 
 
 
-#theorem #lecture8 #derivace 
+#theorem #lecture9 #TaylorPolynom 
 [[]]

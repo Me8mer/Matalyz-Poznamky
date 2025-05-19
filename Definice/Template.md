@@ -2,5 +2,5 @@
 
 
 
-#definition #lecture7 #derivace 
+#definition #lecture8 #derivace 
 

@@ -4,5 +4,5 @@
 ## Věta: 
 
 
-#theorem #lecture1 Q
+#theorem #lecture1 #Q
 [[Dukazy/Tvrzeni1.3]]

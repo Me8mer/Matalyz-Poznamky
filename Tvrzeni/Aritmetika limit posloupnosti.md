@@ -12,4 +12,3 @@ Pak platí:
 
 
 #theorem #lecture2 #limitaPosloupnosti #posloupnost #Aritmetika
-[[Dukazy/]]

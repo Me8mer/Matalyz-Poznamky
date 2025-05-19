@@ -23,5 +23,5 @@ Pokud limita existuje, ale je nevlastní, tak řadu stále **můžeme definovat 
 
 
 #definition #lecture3 #rada
-[[Divergentní řada]] [[Divergentní řada]]
+[[Divergentní řada]] [[Geometrická řada]]]
 
