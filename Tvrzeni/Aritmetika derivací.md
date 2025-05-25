@@ -11,5 +11,5 @@
 
 
 
-#theorem #lecture7 #derivace #spojitost 
+#theorem #lecture7 #derivace #spojitost #Aritmetika
 [[Veta 7.2]]

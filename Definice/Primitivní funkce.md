@@ -12,5 +12,5 @@ $$
 
 
 
-#definition #lecture8 #primitivniFunkce  
+#definition #lecture9 #primitivniFunkce  
 

@@ -7,4 +7,4 @@
 
 
 #theorem #lecture5 #limita #funkce 
-[[]]
+[[5.2]]

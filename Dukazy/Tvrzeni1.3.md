@@ -1,5 +1,4 @@
-# Důkaz 
-
+# Důkaz - *Nieje na skúške*
 Zkonstruujeme prosté zobrazení $f : \mathbb{Q} \to \mathbb{N}$. Nechť $q \in \mathbb{Q}$, zapišme ho v základním tvaru jako $q = \frac{a}{b}$, kde $a \in \mathbb{Z}$, $b \in \mathbb{N}$ a $\gcd(a,b) = 1$.
 
 Nyní definujeme funkci $f$ následovně:

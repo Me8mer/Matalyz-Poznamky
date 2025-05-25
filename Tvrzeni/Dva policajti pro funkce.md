@@ -7,4 +7,4 @@ Pak platí: $\lim_{x \to A} g(x) = L$.
 
 
 #theorem #lecture5 #limita #funkce 
-[[]]
+[[5.4]]

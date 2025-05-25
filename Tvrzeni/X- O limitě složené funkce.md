@@ -16,5 +16,5 @@ $$
 
 
 
-#theorem #lecture5 #limita #funkce 
+#theorem #lecture5 #limita #funkce #difficultProof
 [[O_limite_slozene_funkce.pdf]]

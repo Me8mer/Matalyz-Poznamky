@@ -9,5 +9,5 @@ tj. funkce $f$ nabývá na $M$ svého minima v bodě $a$ a maxima v bodě $b$.
 ---
 Důsledek. Jestliže je $I$ kompaktní interval a f funkce spojitá na $I$, pak f je na $I$ omezená
 
-#theorem #lecture6 #limita #funkce #spojitost 
+#theorem #lecture6 #limita #funkce #spojitost #difficultProof
 [[Veta 6.1]]

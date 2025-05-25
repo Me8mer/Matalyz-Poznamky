@@ -41,7 +41,7 @@ $$
 
 ---
 
-## Důkaz 2
+## Důkaz 2 (pôvodný)
 
 Dokažme, že funkce $f$ spojitá na intervalu $I$ nabývá svého maxima. Případ minima je obdobný.
 
@@ -71,7 +71,7 @@ $$
 
 ### 2. Existence konvergentní podposloupnosti
 
-Podle **Bolzano–Weierstrassovy věty** (_Věta 3.10_), pokud je interval $I$ **omezený**, pak každá posloupnost $(x_n) \subseteq I$ má **konvergentní podposloupnost** $(z_n)$:
+Podle [[Bolzanova–Weierstrassova věta]], pokud je interval $I$ **omezený**, pak každá posloupnost $(x_n) \subseteq I$ má **konvergentní podposloupnost** $(z_n)$:
 
 $$
 z_n \to L \in I
@@ -134,4 +134,4 @@ $$
 
 
 #proof #lecture6 #funkce  #limita
-[[Maximum a minimum spojité funkce na kompaktu]]
+[[X-Maximum a minimum spojité funkce na kompaktu]]

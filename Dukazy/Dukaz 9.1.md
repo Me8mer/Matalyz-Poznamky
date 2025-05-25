@@ -12,7 +12,7 @@ $$
 (F(x) - G(x))' = f(x) - f(x) = 0
 $$
 
-Tedy $F - G$ má nulovou derivaci na $I$, a podle **Věty 8.17** (nulová derivace ⇒ konstanta), musí být $F(x) - G(x)$ konstantní funkce.
+Tedy $F - G$ má nulovou derivaci na $I$, a podle **Věty 8.17** (nulová derivace ⇒ konstanta)[[Derivace nulová - konstanta]], musí být $F(x) - G(x)$ konstantní funkce.
 
 #proof #lecture9 #primitivniFunkce 
 [[Primitivní funkce je jednoznačná až na konstantu]]

@@ -8,7 +8,7 @@ f(D) \ne f(A) = f(B)
 $$
 
 Bez újmy na obecnosti předpokládejme $f(D) > f(A) = f(B)$.  
-Podle [[Maximum a minimum spojité funkce na kompaktu]]](princip maxima) nabývá spojitá funkce na uzavřeném intervalu maximum, tedy existuje $C \in [A, B]$, pro které:
+Podle [[X-Maximum a minimum spojité funkce na kompaktu]]](princip maxima) nabývá spojitá funkce na uzavřeném intervalu maximum, tedy existuje $C \in [A, B]$, pro které:
 $$
 f(C) = \max \{ f(x) \mid x \in [A, B] \}
 $$
