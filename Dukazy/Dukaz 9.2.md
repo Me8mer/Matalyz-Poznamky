@@ -1,4 +1,4 @@
-## Věta: Lineární kombinace primitivních funkcí
+## Věta: Netreba vediet
 
 Zderivujeme:
 $$
