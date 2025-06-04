@@ -14,5 +14,5 @@ $$
 
 
 
-#theorem #lecture110 #urcityIntegral 
+#theorem #lecture10  #urcityIntegral 
 [[10.2]]

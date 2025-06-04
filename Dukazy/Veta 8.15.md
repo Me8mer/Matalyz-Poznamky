@@ -39,5 +39,5 @@ f'(C) = \frac{f(B) - f(A)}{B - A}
 $$
 
 
-#proof #lecture8 #funkce  #derivace
+#proof #lecture8 #funkce  #derivace 
 [[Lagrangeova věta o střední hodnotě]]

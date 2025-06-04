@@ -23,5 +23,5 @@ Oba spory vedou k závěru, že $f(S) = 0$.
 
 
 
-#proof #lecture5 #funkce  #limita
+#proof #lecture5 #funkce  #limita #difficultProof 
 [[Bolzanova věta]]

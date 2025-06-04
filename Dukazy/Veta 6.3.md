@@ -1,4 +1,6 @@
 # Důkaz - *Nie je potrebny*
+- Netreba vediet
+
 Nechť $J = f(I)$.
 
 Chceme ukázat, že $J$ je interval – tedy že pokud $x < y < z$ a $x, z \in J$, pak také $y \in J$.

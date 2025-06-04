@@ -12,5 +12,5 @@ $$
 
 
 
-#theorem #lecture8 #derivace 
+#theorem #lecture8 #derivace #difficultProof 
 [[Veta 8.15]]

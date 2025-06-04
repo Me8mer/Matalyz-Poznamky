@@ -7,5 +7,5 @@
 
 
 
-#theorem #lecture5 #limita #funkce #monotonni 
+#theorem #lecture5 #limita #funkce #monotonni #difficultProof 
 [[Veta 5.3]]

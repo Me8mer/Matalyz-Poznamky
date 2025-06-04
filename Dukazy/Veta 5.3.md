@@ -32,5 +32,5 @@ Tím je dokázáno, že $\lim_{x \to A^-} f(x) = S$.
 
 
 
-#proof #lecture5 #funkce  #limita
-[[Limita monotónní funkce]]
+#proof #lecture5 #funkce  #limita  
+[[X -Limita monotónní funkce]]
